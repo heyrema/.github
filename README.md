@@ -1,8 +1,15 @@
 # Rema
-Managing and distributing certifications for all, since 2021.
 
 <div align="center">
-	<img width="30%" src='https://raw.githubusercontent.com/heyrema/.github/main/logo.svg' />
-</div>
 
-## Made with ❤️ in 🇮🇳.
+Managing and distributing certifications for all, since 2021.
+
+<p>
+<img width="30%" src='https://raw.githubusercontent.com/heyrema/.github/main/logo.svg' />
+</p>
+
+<p>
+Made with ❤️ in 🇮🇳.
+</p>
+
+</div>
